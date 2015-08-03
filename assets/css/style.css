@@ -120,7 +120,7 @@ a, a:hover {
 .subscribe form {
 	margin-top: 14px;
 }
-.subscribe form input {
+#mc_embed_signupform input {
 	width: 310px;
 	height: 46px;
 	margin: 0;
@@ -149,7 +149,7 @@ color: #888;
 .subscribe form input::-webkit-input-placeholder {
 color: #888;
 }
-.button {
+#mc_embed_signup .button {
 	width: 130px;
 	height: 46px;
 	margin: 0;
