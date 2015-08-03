@@ -149,7 +149,7 @@ color: #888;
 .subscribe form input::-webkit-input-placeholder {
 color: #888;
 }
-.subscribe form button {
+.button {
 	width: 130px;
 	height: 46px;
 	margin: 0;
@@ -162,11 +162,11 @@ color: #888;
 	border-radius: 3px;
 	text-shadow: 0;
 }
-.subscribe form button:hover {
+.button:hover {
 	background: #16a084;
 	color: #fff;
 }
-.subscribe form button:active {
+.button:active {
 	background: #1BBC9B;
 	color: #fff;
 }
@@ -257,7 +257,7 @@ body {
 .subscribe form input {
 	width: 90%;
 }
-.subscribe form button {
+.button {
 	width: 90%;
 	margin-top: 10px;
 }
