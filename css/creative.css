@@ -47,7 +47,7 @@ h6 {
 
 p {
     margin-bottom: 20px;
-    font-size: 24px;
+    font-size: 18px;
     line-height: 1.5;
 }
 
@@ -61,7 +61,7 @@ p {
 }
 
 .text-faded {
-    color: rgba(255,255,255,.7);
+    color: rgba(255,255,255,.9);
 }
 
 section {
@@ -235,7 +235,7 @@ header .header-content .header-content-inner p {
         margin-right: auto;
         margin-left: auto;
         max-width: 80%;
-        font-size: 18px;
+        font-size: 26px;
     }
 }
 
